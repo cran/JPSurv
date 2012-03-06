@@ -1,0 +1,13 @@
+2afbfd7406c52bc407301ca051a3e680 *DESCRIPTION
+234ed9b4015e7ed128d999be1c67ffe7 *NAMESPACE
+25622cf690d77d5c70b12cad1c9c7283 *R/CoxFit.R
+c1a2b073b24547bc555bd6e1f3b06184 *R/aapc.R
+2c5cfa0fc64c515e2e8622704b86342f *R/read.seerstat.R
+0ec27afb83768274b9fdbd389e148d23 *data/prostate.rda
+ec103871f80b393cf8684d9962e0f865 *man/CoxFit.Rd
+ec90253a06e35da319d9023733fc6c02 *man/CoxModel_Year.Rd
+c7255c1d3ffb89a8100cae6e69f909d1 *man/aapc.Rd
+d887834d522078382e32589b50712e96 *man/joinpoint.Rd
+6484ccc7aa14564fa66576576e86375a *man/predict.joinpoint.Rd
+2792be8287400f52155c87dc9bb2fa25 *man/prostate.Rd
+706d64d62809ab5c28d26943340eaa7b *man/read.seerstat.Rd
