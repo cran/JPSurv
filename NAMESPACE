@@ -1,1 +1,12 @@
-export(joinpoint, read.seerstat, CoxFit, plot.joinpoint, predict.joinpoint, print.joinpoint, summary.joinpoint, aapc, CoxModel_Year)
+import(stats,ggplot2,ggrepel)
+importFrom("grDevices", "hcl", "rainbow")
+importFrom("utils", "count.fields", "read.table", "write.table")
+importFrom("scales", "percent")
+importFrom("graphics", "abline", "axis", "legend", "lines", "points")
+export(aapc,aapc.multiints,dictionary.overview,input.valid,
+joinpoint,joinpoint.seerdata,download.data,
+Plot.dying.year.annotate,Plot.surv.year.annotate,Plot.surv.int.multiyears,
+joinpoint.cond, joinpoint.relaxProp, joinpoint.conditional, 
+joinpoint.choose.cutpoint,
+jp.plot.cond.year, jp.plot.death, jp.plot.surv)
+
